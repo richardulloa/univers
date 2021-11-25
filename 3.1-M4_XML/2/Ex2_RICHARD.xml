@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<devappmobile>
+    <front_end id="Dev1">
+        <mobile id="fe1">
+            <persona id="per1"></persona>
+        </mobile>
+        <web id="fe2">
+            <persona id="per2"></persona>
+        </web>
+    </front_end>
+    <back_end id="Dev2">
+        <java id="be1">
+            <persona id="per3"></persona>
+        </java> 
+    </back_end>
+    <data_base id="DB1">
+        <oracle id="db1">
+            <persona id="per4"></persona>
+        </oracle>
+        <firebase id="db2">
+            <persona id="per5"></persona>
+        </firebase>
+    </data_base>
+    <maintenance id="Adm1">
+        <pc_team id="m1">
+            <ia id="ia1"></ia>
+            <persona id="per6" lang="en"></persona>
+        </pc_team>
+    </maintenance>
+    <administration id="Office1">
+        <legal_team id="a1">
+            <persona id="per7"></persona>
+        </legal_team>
+    </administration>
+    <comerce id="Office2">
+        <internal id="c1">
+            <persona id="per8" lang="en"></persona>
+        </internal>
+        <external id="c2">
+            <persona id="per9"></persona>
+        </external>
+    </comerce>
+</devappmobile>
